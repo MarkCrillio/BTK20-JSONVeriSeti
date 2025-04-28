@@ -1,0 +1,130 @@
+[
+  {
+    "isim": "Audi RS e-tron",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 670",
+    "yakit": "Yakıt: Elektrik",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_rs_etron.png"
+  },
+  {
+    "isim": "Audi Q4 e-tron",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 335",
+    "yakit": "Yakıt: Elektrik",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2024_q8_etron.png"
+  },
+  {
+    "isim": "Audi Q6 e-tron",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 322",
+    "yakit": "Yakıt: Elektrik",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_q6_etron.png"
+  },
+  {
+    "isim": "Audi Q8 e-tron",
+    "yil": "Yıl: 2024",
+    "beygir": "HP: 355",
+    "yakit": "Yakıt: Elektrik",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2024_q8_etron.png"
+  },
+  {
+    "isim": "Audi Q3",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 228",
+    "yakit": "Yakıt: Benzin",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_q3.png"
+  },
+  {
+    "isim": "Audi SQ5",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 349",
+    "yakit": "Yakıt: Benzin",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_sq5.png"
+  },
+  {
+    "isim": "Audi Q5",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 201",
+    "yakit": "Yakıt: Dizel",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_q5.png"
+  },
+  {
+    "isim": "Audi Q7",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 261",
+    "yakit": "Yakıt: Benzin & Dizel",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_q7.png"
+  },
+  {
+    "isim": "Audi Q8",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 631",
+    "yakit": "Yakıt: Benzin & Dizel",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_q8.png"
+  },
+  {
+    "isim": "Audi A3",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 201",
+    "yakit": "Yakıt: Benzin & Dizel",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_a3.png"
+  }
+  {
+    "isim": "Audi A4 Sedan",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 261",
+    "yakit": "Yakıt: Benzin",
+    "cekis": "Çekiş: FWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_a4.png"
+  },
+  {
+    "isim": "Audi A5 Coupe",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 261",
+    "yakit": "Yakıt: Benzin & Dizel",
+    "cekis": "Çekiş: FWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2024_a5.png"
+  },
+  {
+    "isim": "Audi A6 Sedan",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 335",
+    "yakit": "Yakıt: Benzin & Dizel",
+    "cekis": "Çekiş: FWD & AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_a6.png"
+  },
+  {
+    "isim": "Audi A7",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 335",
+    "yakit": "Yakıt: Benzin & Dizel",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_a7.png"
+  },
+  {
+    "isim": "Audi A8",
+    "yil": "Yıl: 2025",
+    "beygir": "HP: 335",
+    "yakit": "Yakıt: Benzin",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2025_a8.png"
+  },
+  {
+    "isim": "Audi R8",
+    "yil": "Yıl: 2024",
+    "beygir": "HP: 640",
+    "yakit": "Yakıt: Benzin & Dizel",
+    "cekis": "Çekiş: AWD",
+    "gorsel": "https://raw.githubusercontent.com/MarkCrillio/BTK20-JSONVeriSeti/master/2024_r8.png"
+  },
+]
